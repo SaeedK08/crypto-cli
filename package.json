@@ -1,0 +1,12 @@
+{
+  "name": "crypto-cli",
+  "version": "1.0.0",
+  "description": "A CLI tool in Node.js to retrieve and display current cryptocurrency prices via an external API.",
+  "license": "ISC",
+  "author": "Saeed K",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
